@@ -82,4 +82,7 @@ Mở trình duyệt và truy cập:
   ```bash
   npm install -g nodemon
 
+### 6. Deloy project web TaskNest trên vercel
+- [https://task-nest-mern-zfa9.vercel.app/](https://task-nest-mern-zfa9.vercel.app/)
+
 
