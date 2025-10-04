@@ -1,7 +1,9 @@
 # TaskNest-MERN
 Mini Project Quản lý Công việc Cá nhân (Personal Task Management)
 
+---
 ## Hướng dẫn sử dụng sau khi clone dự án về
+---
 
 ### 1. Yêu cầu môi trường (Prerequisites)
 - **Node.js** >= 16.x  
@@ -71,6 +73,7 @@ Mở trình duyệt và truy cập:
 
 ![Mô tả ảnh](image\homepage.png)
 ![Mô tả ảnh](image\thongke.png)
+
 ---
 
 ### 5. Lưu ý (Notes)
@@ -82,4 +85,18 @@ Mở trình duyệt và truy cập:
   ```bash
   npm install -g nodemon
 
+---
 
+### 6. Deloy project web TaskNest trên vercel
+- [https://task-nest-mern-zfa9.vercel.app/](https://task-nest-mern-zfa9.vercel.app/)
+
+---
+
+### 7. Kế hoạch/tiến độ triển khai dự án trên Jira
+- [https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/timeline](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/timeline)
+- Cumulative flow diagram
+[https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/reports/cumulative?atlOrigin=eyJpIjoiN2Q4ZjZhNTAwZGNkNDdhNjgzOGY2OTBmOGUyNWE0OWEiLCJwIjoiaiJ9](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/reports/cumulative?atlOrigin=eyJpIjoiN2Q4ZjZhNTAwZGNkNDdhNjgzOGY2OTBmOGUyNWE0OWEiLCJwIjoiaiJ9)
+- Report .csv
+[https://drive.google.com/file/d/1aNGZjWRiV5P2qxpGkAVX5ttaxhvbcJp1/view?usp=sharing](https://drive.google.com/file/d/1aNGZjWRiV5P2qxpGkAVX5ttaxhvbcJp1/view?usp=sharing)
+
+---
