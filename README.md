@@ -86,17 +86,33 @@ Mở trình duyệt và truy cập:
   npm install -g nodemon
 
 ---
-
-### 6. Deloy project web TaskNest trên vercel
-- [https://task-nest-mern-zfa9.vercel.app/](https://task-nest-mern-zfa9.vercel.app/)
+Dưới đây là phiên bản được trình bày lại đẹp hơn và chuyên nghiệp hơn cho mục **Triển khai web TaskNest trên Vercel**:
 
 ---
 
-### 7. Kế hoạch/tiến độ triển khai dự án trên Jira
-- [https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/timeline](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/timeline)
-- Cumulative flow diagram
-[https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/reports/cumulative?atlOrigin=eyJpIjoiN2Q4ZjZhNTAwZGNkNDdhNjgzOGY2OTBmOGUyNWE0OWEiLCJwIjoiaiJ9](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/reports/cumulative?atlOrigin=eyJpIjoiN2Q4ZjZhNTAwZGNkNDdhNjgzOGY2OTBmOGUyNWE0OWEiLCJwIjoiaiJ9)
-- Report .csv
-[https://drive.google.com/file/d/1aNGZjWRiV5P2qxpGkAVX5ttaxhvbcJp1/view?usp=sharing](https://drive.google.com/file/d/1aNGZjWRiV5P2qxpGkAVX5ttaxhvbcJp1/view?usp=sharing)
+### 🚀 6. Triển khai dự án TaskNest trên Vercel
+
+🔗 **Link truy cập website:**  
+👉 [https://task-nest-mern-zfa9.vercel.app/](https://task-nest-mern-zfa9.vercel.app/)
+
+📌 **Giới thiệu nhanh:**  
+TaskNest là nền tảng quản lý công việc cá nhân, hiển thị thống kê nhiệm vụ theo dạng biểu đồ (thanh ngang, tròn, đường) và theo dõi tiến độ hoàn thành. Hiện tại, chưa có nhiệm vụ nào được thêm vào hệ thống.
+
+---
+
+### 📅 7. Kế hoạch & Tiến độ triển khai dự án
+
+#### 🔗 Timeline dự án trên Jira  
+👉 [Xem timeline tại đây](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/timeline)
+
+#### 📊 Biểu đồ luồng tích lũy (Cumulative Flow Diagram)  
+👉 [Xem biểu đồ tại đây](https://student-team-vnphuphm.atlassian.net/jira/software/projects/L0MPNP/boards/232/reports/cumulative?atlOrigin=eyJpIjoiN2Q4ZjZhNTAwZGNkNDdhNjgzOGY2OTBmOGUyNWE0OWEiLCJwIjoiaiJ9)
+
+#### 📁 Báo cáo tiến độ (.csv)  
+👉 [Tải file báo cáo tại đây](https://drive.google.com/file/d/1aNGZjWRiV5P2qxpGkAVX5ttaxhvbcJp1/view?usp=sharing)
+
+---
+
+
 
 ---
