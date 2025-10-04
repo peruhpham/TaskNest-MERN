@@ -71,7 +71,7 @@ Mini Project Quản lý Công việc Cá nhân (Personal Task Management)
 Mở trình duyệt và truy cập:  
 [http://localhost:5173/](http://localhost:5173/)
 
-![Mô tả ảnh](client\public\homepage.png)
+![Homepage](client/public/homepage.png)
 ![Mô tả ảnh](client\public\thongke.png)
 
 ---
