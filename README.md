@@ -72,7 +72,7 @@ Mở trình duyệt và truy cập:
 [http://localhost:5173/](http://localhost:5173/)
 
 ![Homepage](client/public/homepage.png)
-![Mô tả ảnh](client\public\thongke.png)
+![ThongKe](client/public/thongke.png)
 
 ---
 
